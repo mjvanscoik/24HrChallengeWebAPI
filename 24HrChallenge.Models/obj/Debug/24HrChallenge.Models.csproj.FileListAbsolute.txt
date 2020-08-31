@@ -1,0 +1,12 @@
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Models\bin\Debug\24HrChallenge.Models.dll
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Models\bin\Debug\24HrChallenge.Models.pdb
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Models\obj\Debug\24HrChallenge.Models.csprojAssemblyReference.cache
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Models\obj\Debug\24HrChallenge.Models.csproj.CoreCompileInputs.cache
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Models\obj\Debug\24HrChallenge.Models.dll
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Models\obj\Debug\24HrChallenge.Models.pdb
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Models\bin\Debug\24HrChallenge.Models.dll.config
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Models\bin\Debug\EntityFramework.dll
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Models\bin\Debug\EntityFramework.xml
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Models\obj\Debug\24HrChallenge.Models.csproj.CopyComplete

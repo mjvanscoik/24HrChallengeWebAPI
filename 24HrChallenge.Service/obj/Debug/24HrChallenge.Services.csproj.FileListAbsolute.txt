@@ -1,0 +1,12 @@
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\bin\Debug\24HrChallenge.Service.dll
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\bin\Debug\24HrChallenge.Service.pdb
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\obj\Debug\24HrChallenge.Services.csprojAssemblyReference.cache
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\obj\Debug\24HrChallenge.Services.csproj.CoreCompileInputs.cache
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\obj\Debug\24HrChallenge.Service.dll
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\obj\Debug\24HrChallenge.Service.pdb
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\bin\Debug\24HrChallenge.Service.dll.config
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\bin\Debug\EntityFramework.dll
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\bin\Debug\EntityFramework.xml
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\obj\Debug\24HrChallenge.Services.csproj.CopyComplete

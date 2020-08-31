@@ -1,0 +1,2 @@
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge\obj\Debug\24HrChallenge.csprojAssemblyReference.cache
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge\obj\Debug\24HrChallenge.csproj.CoreCompileInputs.cache
