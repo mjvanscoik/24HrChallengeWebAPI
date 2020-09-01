@@ -17,7 +17,6 @@ namespace _24HrChallenge.Data
         public string Title { get; set; }
         [Required]
         public string Text { get; set; }
-        [Required]
         public User Author 
         {
             get; set; //Set to user.Name?

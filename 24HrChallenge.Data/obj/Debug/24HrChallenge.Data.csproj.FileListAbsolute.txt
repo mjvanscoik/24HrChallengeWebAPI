@@ -68,3 +68,5 @@ C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChalleng
 C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Data\obj\Debug\24HrChallenge.Data.csproj.CopyComplete
 C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Data\obj\Debug\24HrChallenge.Data.dll
 C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Data\obj\Debug\24HrChallenge.Data.pdb
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Data\obj\Debug\_24HrChallenge.Data.Migrations.FirstMigration.resources
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Data\obj\Debug\24HrChallenge.Data.csproj.GenerateResource.cache
