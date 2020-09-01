@@ -17,10 +17,13 @@ namespace _24HrChallenge.Data
         public string Title { get; set; }
         [Required]
         public string Text { get; set; }
-        [Required]
         public User Author 
         {
             get; set; //Set to user.Name?
         }
+        [ForeignKey(nameof(Author))]
+        public Guid AuthorId { get; set; }
+        public DateTimeOffset CreatedUtc { get; set; }
+        public DateTimeOffset? ModifiedUtc { get; set; }
     }
 }
