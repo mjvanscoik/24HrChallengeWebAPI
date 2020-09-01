@@ -10,3 +10,15 @@ C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge
 C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Models\bin\Debug\EntityFramework.xml
 C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Models\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Models\obj\Debug\24HrChallenge.Models.csproj.CopyComplete
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Models\bin\Debug\24HrChallenge.Models.dll.config
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Models\bin\Debug\24HrChallenge.Models.dll
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Models\bin\Debug\24HrChallenge.Models.pdb
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Models\bin\Debug\EntityFramework.dll
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Models\bin\Debug\EntityFramework.xml
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Models\obj\Debug\24HrChallenge.Models.csprojAssemblyReference.cache
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Models\obj\Debug\24HrChallenge.Models.csproj.CoreCompileInputs.cache
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Models\obj\Debug\24HrChallenge.Models.csproj.CopyComplete
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Models\obj\Debug\24HrChallenge.Models.dll
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Models\obj\Debug\24HrChallenge.Models.pdb

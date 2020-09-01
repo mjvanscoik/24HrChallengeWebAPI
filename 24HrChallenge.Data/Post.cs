@@ -22,5 +22,9 @@ namespace _24HrChallenge.Data
         {
             get; set; //Set to user.Name?
         }
+        [ForeignKey(nameof(Author))]
+        public Guid AuthorId { get; set; }
+        public DateTimeOffset CreatedUtc { get; set; }
+        public DateTimeOffset? ModifiedUtc { get; set; }
     }
 }
