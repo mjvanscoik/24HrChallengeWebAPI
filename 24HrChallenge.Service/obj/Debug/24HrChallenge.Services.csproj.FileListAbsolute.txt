@@ -10,3 +10,25 @@ C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge
 C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\bin\Debug\EntityFramework.xml
 C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\obj\Debug\24HrChallenge.Services.csproj.CopyComplete
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Service\bin\Debug\24HrChallenge.Service.dll.config
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Service\bin\Debug\24HrChallenge.Service.dll
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Service\bin\Debug\24HrChallenge.Service.pdb
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Service\bin\Debug\EntityFramework.dll
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Service\bin\Debug\EntityFramework.xml
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Service\obj\Debug\24HrChallenge.Services.csprojAssemblyReference.cache
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Service\obj\Debug\24HrChallenge.Services.csproj.CoreCompileInputs.cache
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Service\obj\Debug\24HrChallenge.Services.csproj.CopyComplete
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Service\obj\Debug\24HrChallenge.Service.dll
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Service\obj\Debug\24HrChallenge.Service.pdb
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Service\bin\Debug\24HrChallenge.Data.dll
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Service\bin\Debug\24HrChallenge.Models.dll
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Service\bin\Debug\24HrChallenge.Data.pdb
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Service\bin\Debug\24HrChallenge.Data.dll.config
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Service\bin\Debug\24HrChallenge.Models.pdb
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Service\bin\Debug\24HrChallenge.Models.dll.config
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\galva\Desktop\ElevenFiftyProjects\BlueBadge_DotNetProjects\24HrChallenge\24HrChallengeWebAPI\24HrChallenge.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
