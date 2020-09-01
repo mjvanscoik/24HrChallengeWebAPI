@@ -10,3 +10,13 @@ C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge
 C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\bin\Debug\EntityFramework.xml
 C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\obj\Debug\24HrChallenge.Services.csproj.CopyComplete
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\bin\Debug\24HrChallenge.Data.dll
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\bin\Debug\24HrChallenge.Models.dll
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\bin\Debug\24HrChallenge.Data.pdb
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\bin\Debug\24HrChallenge.Data.dll.config
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\bin\Debug\24HrChallenge.Models.pdb
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\bin\Debug\24HrChallenge.Models.dll.config
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vansc\Desktop\Eleven Fifty\Projects\teamGit\24HrChallenge\24HrChallenge.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml

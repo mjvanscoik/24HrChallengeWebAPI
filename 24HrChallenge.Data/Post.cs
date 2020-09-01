@@ -11,6 +11,8 @@ namespace _24HrChallenge.Data
     
     public class Post
     {
+        private readonly User _user; 
+
         [Key]
         public int PostId { get; set; }
         [Required]
@@ -18,9 +20,7 @@ namespace _24HrChallenge.Data
         [Required]
         public string Text { get; set; }
         [Required]
-        public User Author 
-        {
-            get; set; //Set to user.Name?
-        }
+        public User Author { get; set; }
+        
     }
 }

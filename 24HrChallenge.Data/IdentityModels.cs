@@ -20,7 +20,6 @@ namespace _24HrChallenge.Data
             return userIdentity;
         }
     }
-
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext()
@@ -32,21 +31,23 @@ namespace _24HrChallenge.Data
         {
             return new ApplicationDbContext();
         }
-        public DbSet<User> Users { get; set; }
         public DbSet<Post> Posts { get; set; }
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
-        {
+            {
             modelBuilder
-                .Conventions
-                .Remove<PluralizingTableNameConvention>();
+            .Conventions
+            .Remove<PluralizingTableNameConvention>();
 
             modelBuilder
-                .Configurations
-                .Add(new IdentityUserLoginConfiguration())
-                .Add(new IdentityUserRoleConfiguration());
-        }
-
+            .Configurations
+            .Add(new IdentityUserLoginConfiguration())
+            .Add(new IdentityUserRoleConfiguration());
+            }
+        public DbSet<User> Users { get; set; }
     }
+
+
+    
     public class IdentityUserLoginConfiguration : EntityTypeConfiguration<IdentityUserLogin>
     {
         public IdentityUserLoginConfiguration()
