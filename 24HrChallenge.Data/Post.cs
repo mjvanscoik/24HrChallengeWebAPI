@@ -22,7 +22,7 @@ namespace _24HrChallenge.Data
         public string Text { get; set; }
 
         [ForeignKey(nameof(Author))]
-        public Guid UserId { get; set; }
+        public Guid AuthorId { get; set; }
         public virtual User Author { get; set; }
     }
 }

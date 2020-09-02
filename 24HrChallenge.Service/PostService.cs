@@ -22,7 +22,7 @@ namespace _24HrChallenge.Service
             var entity =
                 new Post()
                 {
-                    UserId = _userId,
+                    AuthorId = _userId,
                     Title = model.Title,
                     Text = model.Text
                 };
@@ -41,7 +41,7 @@ namespace _24HrChallenge.Service
                 var query =
                     ctx
                     .Posts
-                    .Where(e => e.UserId == _userId)
+                    .Where(e => e.AuthorId == _userId)
                     .Select(
                         e =>
                         new PostListItem

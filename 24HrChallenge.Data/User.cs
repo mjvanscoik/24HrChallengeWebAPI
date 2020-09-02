@@ -9,26 +9,20 @@ namespace _24HrChallenge.Data
 {
     public class User
     {
-        /*public User(ApplicationUser user)
+        public User(Guid userId, string name, string email)
         {
-            _user = user;
-        }*/
-
-        private ApplicationUser _user;
-
-        [Key]
-        public Guid UserId
-        {
-            get
-            {
-                return Guid.Parse(_user.Id);
-            }
+            UserId = userId;
+            Name = name;
+            Email = email;
         }
 
-        [Required]
-        public string Name => _user.UserName;
+        [Key]
+        public Guid UserId { get; set; }
 
         [Required]
-        public string Email => _user.Email;
+        public string Name { get; set; }
+
+        [Required]
+        public string Email { get; set; }
     }
 }

@@ -17,7 +17,7 @@ namespace _24HrChallenge.Controllers
     {
         private PostService CreatePostService()
         {
-            //var user = new User()
+            //var user = new User(User.Identity.)
             //var userId = user.UserId;
             var userId = Guid.Parse(User.Identity.GetUserId());
             var PostService = new PostService(userId);

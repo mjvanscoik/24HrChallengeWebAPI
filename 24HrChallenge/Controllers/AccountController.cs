@@ -329,13 +329,21 @@ namespace _24HrChallenge.Controllers
                 return BadRequest(ModelState);
             }
 
-            var user = new ApplicationUser() { UserName = model.Email, Email = model.Email };
+            var user = new ApplicationUser() { FirstName = model.FirstName, LastName = model.LastName, UserName = model.Email, Email = model.Email };
 
             IdentityResult result = await UserManager.CreateAsync(user, model.Password);
 
             if (!result.Succeeded)
             {
                 return GetErrorResult(result);
+            }
+
+            Data.User chickenNugget = new User(Guid.Parse(user.Id), user.FullName, user.Email);
+            
+            using (var ctx = new ApplicationDbContext())
+            {
+                ctx.Users.Add(chickenNugget);
+                ctx.SaveChanges();
             }
 
             return Ok();
