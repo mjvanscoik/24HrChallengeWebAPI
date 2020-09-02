@@ -10,9 +10,8 @@ namespace _24HrChallenge.Models
     public class PostListItem
     {
         public int PostId { get; set; }
+        public string AuthorName { get; set; }
         public string Title { get; set; }
         public string Text { get; set; }
-        [Display(Name="Created")]
-        public DateTimeOffset CreatedUtc { get; set; }
     }
 }

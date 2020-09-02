@@ -22,10 +22,9 @@ namespace _24HrChallenge.Service
             var entity =
                 new Post()
                 {
-                    AuthorId = _userId,
+                    UserId = _userId,
                     Title = model.Title,
-                    Text = model.Text,
-                    CreatedUtc = DateTime.Now
+                    Text = model.Text
                 };
 
             using (var ctx = new ApplicationDbContext())
@@ -42,14 +41,13 @@ namespace _24HrChallenge.Service
                 var query =
                     ctx
                     .Posts
-                    .Where(e => e.AuthorId == _userId)
+                    .Where(e => e.UserId == _userId)
                     .Select(
                         e =>
                         new PostListItem
                         {
                             PostId = e.PostId,
-                            Title = e.Title,
-                            CreatedUtc = e.CreatedUtc
+                            Title = e.Title
                         }
                         );
                 return query.ToArray();

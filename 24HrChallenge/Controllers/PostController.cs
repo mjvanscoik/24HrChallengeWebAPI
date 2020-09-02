@@ -1,4 +1,5 @@
-﻿using _24HrChallenge.Models;
+﻿using _24HrChallenge.Data;
+using _24HrChallenge.Models;
 using _24HrChallenge.Service;
 using Microsoft.AspNet.Identity;
 using System;
@@ -16,6 +17,8 @@ namespace _24HrChallenge.Controllers
     {
         private PostService CreatePostService()
         {
+            //var user = new User()
+            //var userId = user.UserId;
             var userId = Guid.Parse(User.Identity.GetUserId());
             var PostService = new PostService(userId);
             return PostService;
